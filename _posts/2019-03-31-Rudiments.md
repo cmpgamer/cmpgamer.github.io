@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "About CPSC350"
+title:  "Rudiments"
 date:   2016-03-31 21:35:00
 categories: CPSC350
 color: red
