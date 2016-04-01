@@ -7,6 +7,8 @@ permalink: /about/
 
 # Bryan Nosar
 
+---
+
 Hello and welcome to my site! Here I will talk about a class that I am currently in, CPSC350 Applications of Databases. To learn more about this class, you can view my post [here].
 
 
