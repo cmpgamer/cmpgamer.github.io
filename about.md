@@ -1,12 +1,14 @@
 ---
 layout: page
-title: About
+title: About Me
 color: indigo
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+#Bryan Nosar
 
-You can find the source code for the Jekyll theme at: [github.com/brijeshb42/bitwiser-material](github.com/brijeshb42/bitwiser-material)
+Hello and welcome to my site! Here I will talk about a class that I am currently in, CPSC350 Applications of Databases. To learn more about this class, you can view my post [here].
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+
+
+[here]: http://cmpgamer.github.io/cpsc350/2016/03/31/About-CPSC350.html
