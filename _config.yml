@@ -1,12 +1,14 @@
 # Site settings
 ## Change the values as needed.
-title: Bitwiser-Material
-email: brijeshb42@gmail.com
-description: "A jekyll theme implementing material design by using muicss."
-keywords: "jekyll, theme, material, muicss"
+title: cmpgamer's 350 Blog
+email: bmnosar@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  This site was created for a CPSC350 project at the University of Mary Washington.
+  This site will be a blog about how I feel about Applications of Databases.
+  It includes: Bootstrap, PostgreSQL, Python-Flask, AngularJS, Node.js, and NoSQL.
 #url: "http://bitwiser.in/bitwiser-material" # the base hostname & protocol for your site
-url: "http://bitwiser.in/bitwiser-material" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://cmpgamer.github.io/" # the base hostname & protocol for your site
 paginate: 5
 paginate_path: "page:num"
 # Build settings
@@ -16,14 +18,14 @@ sass:
   sass_dir: _sass
   style: :compressed
 links:
-  facebook: brijeshb42
-  twitter: brijeshb42
-  email: brijeshb42@gmail.com
-  github: brijeshb42/bitwiser-material/
+  facebook: bryan.nosar
+  twitter: cmgpamer
+  email: bmnosar@gmail.com
+  github: cmpgamer
 exclude:
   - bower_components
   - README.md
-full_name: Brijesh
+full_name: Bryan Nosar
 
 ##set this to enable disqus commenting
 disqus: bitwiser
