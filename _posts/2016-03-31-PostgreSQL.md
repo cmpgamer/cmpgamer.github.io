@@ -18,7 +18,9 @@ I used MySQL at an internship during the Summer of 2015. It was nice that I was 
 ``` SQL
 change Dogs;
 ```
+
 Versus
+
 ``` SQL
 \c Dogs
 ```
