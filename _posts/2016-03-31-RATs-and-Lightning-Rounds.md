@@ -6,6 +6,8 @@ categories: CPSC350
 color: yellow
 ---
 
+RATs and Lightning Rounds - Learn the material and learn to remember the material
+
 # RATs
 RATs seem to be an issue with many students because they have never thought of a quiz or test like how a RAT is structured. The first part of a RAT is an individual test and you can put 5 points spread across 5 answers. If you know answer A is correct, you'd put 5 points, but if you are unsure if C or E is correct, you can split the 5 points into 3 and 2. And if you really don't know the answer, you can put 1 point on each of the 5 answers. Personally I love RATs for this.
 
