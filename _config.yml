@@ -28,8 +28,5 @@ exclude:
 full_name: Bryan Nosar
 
 ##set this to enable disqus commenting
-disqus: bitwiser
+disqus: cmpgamers350blog.
 
-##set this to enable google analytics
-ga_id: analyticsID
-ga_domain: bitwiser.in
