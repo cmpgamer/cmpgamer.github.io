@@ -6,6 +6,8 @@ categories: CPSC350
 color: red
 ---
 
+Rudiments - Small projects that force you to learn
+
 #Rudiments
 
 In order for the class to keep on track and have students learning new things with each project, Zacharski implemented a Rudiment system. Rudiments are small projects that focus on one small task that students need to complete in order to gain XP and learn something useful. The good thing about rudiments is that they are small projects that, to me, have not taken too long to complete.
