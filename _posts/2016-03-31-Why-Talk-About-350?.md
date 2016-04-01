@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Karma"
+title:  "Why talk about CPSC 350?"
 date:   2016-03-31 23:15:00
 categories: CPSC350
 color: lime
