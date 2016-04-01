@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "RATs and Lightning Rounds"
-date:   2016-03-31 22:00:00
+date:   2016-03-31 21:30:00
 categories: CPSC350
 color: yellow
 ---
