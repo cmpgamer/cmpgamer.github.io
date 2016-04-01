@@ -28,7 +28,7 @@ exclude:
 full_name: Bryan Nosar
 
 ##set this to enable disqus commenting
-disqus: bitwiser
+#disqus: bitwiser
 
 ##set this to enable google analytics
 #ga_id: analyticsID
