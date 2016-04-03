@@ -8,7 +8,6 @@ color: red
 
 Sessions - It's needed to track you online
 
-
 # Sessions
 
 So since I talked about the more basic parts of Flask, I will talk about Sessions. Sessions in Flask are a bit annoying as I've found out the more and more I've used them. They are consistent only when they need to be. They tend to be sporatic when using Javascript with your website. That being said, let me delve deeper into sessions.
